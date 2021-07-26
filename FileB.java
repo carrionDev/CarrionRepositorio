@@ -1,5 +1,8 @@
 public class FileB {
 
-       int nome;  
+       int nome;
+       public void open(){
+
+       }
 }
 
