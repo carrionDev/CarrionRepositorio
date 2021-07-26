@@ -1,5 +1,6 @@
 public class FileB {
 
-       int nome;  
+       int nome;
+       int path;
 }
 
