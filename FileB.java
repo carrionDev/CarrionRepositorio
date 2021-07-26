@@ -5,5 +5,7 @@ public class FileB {
 
        public void close(){
        }
+       public void open(){
+       }
 }
 

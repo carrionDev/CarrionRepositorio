@@ -5,6 +5,7 @@ public class FileC {
        }
        
        public void methodY(){
+	       fileA.open();
        }
 }
 
